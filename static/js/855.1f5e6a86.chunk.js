@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdaweb=self.webpackChunkdaweb||[]).push([[855],{1855:function(e,n,c){c.r(n);c(2791);var a=c(184);n.default=function(e){return(0,a.jsx)("div",{children:(0,a.jsx)("h1",{style:{color:"black",fontSize:20},children:"Rejjak"})})}}}]);
+//# sourceMappingURL=855.1f5e6a86.chunk.js.map
