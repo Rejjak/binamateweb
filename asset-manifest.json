@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.52fa1c21.js",
-    "static/js/733.644ee0ff.chunk.js": "/static/js/733.644ee0ff.chunk.js",
-    "static/js/855.1f5e6a86.chunk.js": "/static/js/855.1f5e6a86.chunk.js",
-    "static/media/binamate.png": "/static/media/binamate.e6f68de7ea4739b6041e.png",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.52fa1c21.js.map": "/static/js/main.52fa1c21.js.map",
-    "733.644ee0ff.chunk.js.map": "/static/js/733.644ee0ff.chunk.js.map",
-    "855.1f5e6a86.chunk.js.map": "/static/js/855.1f5e6a86.chunk.js.map"
+    "main.css": "/binamateweb/static/css/main.073c9b0a.css",
+    "main.js": "/binamateweb/static/js/main.4e00aa97.js",
+    "static/js/733.644ee0ff.chunk.js": "/binamateweb/static/js/733.644ee0ff.chunk.js",
+    "static/js/855.1f5e6a86.chunk.js": "/binamateweb/static/js/855.1f5e6a86.chunk.js",
+    "static/media/binamate.png": "/binamateweb/static/media/binamate.e6f68de7ea4739b6041e.png",
+    "index.html": "/binamateweb/index.html",
+    "main.073c9b0a.css.map": "/binamateweb/static/css/main.073c9b0a.css.map",
+    "main.4e00aa97.js.map": "/binamateweb/static/js/main.4e00aa97.js.map",
+    "733.644ee0ff.chunk.js.map": "/binamateweb/static/js/733.644ee0ff.chunk.js.map",
+    "855.1f5e6a86.chunk.js.map": "/binamateweb/static/js/855.1f5e6a86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.52fa1c21.js"
+    "static/js/main.4e00aa97.js"
   ]
 }
