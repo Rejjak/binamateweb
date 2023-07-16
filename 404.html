@@ -1,5 +1,61 @@
-<html>
-    <body>
-        404 pagwe here
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 Not Found</title>
+  <style>
+    body {
+      background-color: #f1f1f1;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .error-container {
+      text-align: center;
+    }
+
+    .error-title {
+      font-size: 5rem;
+      font-weight: bold;
+      color: #ff7f50;
+    }
+
+    .error-text {
+      font-size: 1.5rem;
+      color: #555;
+    }
+
+    .error-image {
+      width: 300px;
+    }
+
+    .error-btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #ff7f50;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+
+    .error-btn:hover {
+      background-color: #f05540;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-container">
+    <h1 class="error-title">404</h1>
+    <p class="error-text">Oops! The page you're looking for does not exist.</p>
+    <img class="error-image" src="https://cdn.pixabay.com/photo/2016/03/31/20/51/circle-1295209_960_720.png" alt="404 Error">
+    <a class="error-btn" href="/">Go back to home</a>
+  </div>
+</body>
 </html>
