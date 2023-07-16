@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/binamateweb/static/css/main.dfcca1a4.css",
-    "main.js": "/binamateweb/static/js/main.d731abe3.js",
-    "static/js/648.93a0dc8c.chunk.js": "/binamateweb/static/js/648.93a0dc8c.chunk.js",
+    "main.js": "/binamateweb/static/js/main.611efe27.js",
+    "static/js/648.497f8acb.chunk.js": "/binamateweb/static/js/648.497f8acb.chunk.js",
     "static/js/360.0a642045.chunk.js": "/binamateweb/static/js/360.0a642045.chunk.js",
     "static/js/602.9ab2b944.chunk.js": "/binamateweb/static/js/602.9ab2b944.chunk.js",
     "static/media/binamate.png": "/binamateweb/static/media/binamate.1c6330f1d07892e9708a.png",
     "index.html": "/binamateweb/index.html",
     "main.dfcca1a4.css.map": "/binamateweb/static/css/main.dfcca1a4.css.map",
-    "main.d731abe3.js.map": "/binamateweb/static/js/main.d731abe3.js.map",
-    "648.93a0dc8c.chunk.js.map": "/binamateweb/static/js/648.93a0dc8c.chunk.js.map",
+    "main.611efe27.js.map": "/binamateweb/static/js/main.611efe27.js.map",
+    "648.497f8acb.chunk.js.map": "/binamateweb/static/js/648.497f8acb.chunk.js.map",
     "360.0a642045.chunk.js.map": "/binamateweb/static/js/360.0a642045.chunk.js.map",
     "602.9ab2b944.chunk.js.map": "/binamateweb/static/js/602.9ab2b944.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfcca1a4.css",
-    "static/js/main.d731abe3.js"
+    "static/js/main.611efe27.js"
   ]
 }
